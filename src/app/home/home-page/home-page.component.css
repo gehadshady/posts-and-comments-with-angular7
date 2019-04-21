@@ -1,0 +1,6 @@
+.post:hover{
+
+    transform: translateY(-5px);
+    transition: .3s;
+    cursor: pointer;
+}
